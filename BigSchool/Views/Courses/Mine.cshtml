@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<BigSchool.Models.Course>
 
+
+<h2>Mine</h2>
 <div class="row">
     <ul class="course">
         @foreach (var course in Model)
@@ -24,7 +26,7 @@
 
                 <div class="action">
                     <a href="@Url.Action("Edit","Courses", new { id = course.Id })">Edit</a> |
-                    <a data-course-id="@course.Id" href="#" class="js-cancel-course">Delete</a>
+                    <a data-course-id="@course.Id" href="#" class="js-cancel-course">Cancel</a>
                 </div>
             </li>
         }
