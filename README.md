@@ -1,7 +1,7 @@
 
 ## BigShool
 -------------------
-Link: https://github.com/anvndev/BigSchool_AVN/blob/main/Thay-Anh-noi-dung-giang-day-lap-trinh-web.pdf
+Link: [Tutorial BigSchool](https://github.com/anvndev/BigSchool_AVN/blob/main/Thay-Anh-noi-dung-giang-day-lap-trinh-web.pdf)
 <br>
 Visual Studio: https://visualstudio.microsoft.com/
 <br>
